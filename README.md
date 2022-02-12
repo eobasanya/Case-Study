@@ -1,6 +1,6 @@
 # Case-Study Robinhood
 
-![Model Output Results](robinhoodlogo.jpg)
+![Robinhood](robinhoodlogo.jpg)
 
 ## Investing made for retailers: A Deep Dive Into The Robinhood App and Its Appeal to Retail Investors ##
 
@@ -21,7 +21,7 @@ Robinhood is exemplary in the fintech space due to their commission free fee str
 
 The strengths of the business is their no commission fee structure, easy to use mobile app, and educational tools that makes understanding more sophisticated trading strategies a bit easier.
 
-![Model Output Results](app.png)
+![Robinhood](app.png)
 
 
 ## What is the prognosis for this company? Where do they expect to be in the future?## 
